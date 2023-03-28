@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# pulls from master upstream to form merge with fork
+git pull upstream master
